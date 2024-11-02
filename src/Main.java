@@ -19,7 +19,5 @@ public class Main {
         list.clear();
         System.out.println("Size after clear: " + list.size()); // Output: Size after clear: 0
 
-        asasasasa
-
     }
 }
