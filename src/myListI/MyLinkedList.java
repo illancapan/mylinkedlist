@@ -35,7 +35,7 @@ public class MyLinkedList<E> implements MyListI<E> {
     @Override
     public boolean add(E e) {
         Node<E> newNode = new Node<>(e); // Crear un nuevo nodo
-        if (head == null) { // Si la lista está vacía
+        if (head == null) { // Si la lista está vacíaxzl
             head = newNode; // El nuevo nodo se convierte en la cabeza
         } else {
             Node<E> current = head; // Nodo actual comenzando desde la cabeza
