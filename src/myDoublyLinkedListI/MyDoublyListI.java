@@ -16,4 +16,9 @@ public interface MyDoublyListI<E>  {
     E get(int index);
 
     boolean remove(int index);
+
+//asdasda safasfafa
+
+    dsadsadsaasa
+
 }
